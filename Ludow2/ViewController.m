@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  Ludow2
+//  ludo2
 //
-//  Created by JACQUEZ on 23/03/2015.
+//  Created by JACQUEZ on 22/03/2015.
 //  Copyright (c) 2015 JACQUEZ_ESTREM. All rights reserved.
 //
 
